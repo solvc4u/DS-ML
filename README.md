@@ -1,4 +1,4 @@
-# DS and ML Projects <img align = "right" src ="https://img.shields.io/github/watchers/hhhrrrttt222111/DS_and_ML_projects?style=flat-square"> <img align = "right" src ="https://img.shields.io/github/stars/hhhrrrttt222111/DS_and_ML_projects?style=flat-square">    <img align = "right" src ="https://img.shields.io/github/forks/hhhrrrttt222111/DS_and_ML_projects?style=flat-square">
+# DS and ML Projects <img align = "right" src ="https://img.shields.io/github/watchers/solvc4u/DS-ML?style=flat-square"> <img align = "right" src ="https://img.shields.io/github/stars/solvc4u/DS-ML?style=flat-square">    <img align = "right" src ="https://img.shields.io/github/forks/solvc4u/DS-ML?style=flat-square">
 
 <br>
 
@@ -17,9 +17,9 @@
 #### Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves.
 
 
-For more Resources, visit  <b><a href="https://github.com/hhhrrrttt222111/DS_and_ML_projects/blob/master/RESOURCES.md" target='_blank'>RESOURCES.md</a></b>
+For more Resources, visit  <b><a href="https://github.com/solvc4u/DS-ML/blob/master/RESOURCES.md" target='_blank'>RESOURCES.md</a></b>
  <br>
-Read <b><a href="https://github.com/hhhrrrttt222111/DS_and_ML_projects/blob/master/CONTRIBUTING.md" target='_blank'>CONTRIBUTING.md</a></b> before sending a Pull Request.
+Read <b><a href="https://github.com/solvc4u/DS-ML/blob/master/CONTRIBUTING.md" target='_blank'>CONTRIBUTING.md</a></b> before sending a Pull Request.
 
 <br>
 
