@@ -1,4 +1,4 @@
-# Contributing to the repository <img align = "right" src ="https://img.shields.io/github/forks/hhhrrrttt222111/DS_and_ML_projects?style=flat-square&logo=CodeChef">
+# Contributing to the repository <img align = "right" src ="https://img.shields.io/github/forks/solvc4u/DS-ML?style=flat-square&logo=CodeChef">
 
 [![Awesome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) &nbsp;
 
